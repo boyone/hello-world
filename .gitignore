@@ -2,3 +2,8 @@
 target/
 
 *.iml
+reports/*.html
+reports/*.xml
+
+webapps/hello-world
+webapps/hello-world.war
